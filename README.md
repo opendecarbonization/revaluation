@@ -17,10 +17,10 @@ The project aims to develop a generic capacity expansion model which can be *(re
 * energy storage technologies;  
 * several levels of the final demand (fixed or variable in time, exogenous or optimized location).    
 
-As the starting point, the project will adopt a model initially developed under *Feasibility study of China’s electric power sector transition to zero emissions by 2050* (by Oleg Lugovoy, Shuo Gao, Ji Gao, Kejun Jiang, under review), and currently being applied to [USA](www.usensys.org), [India](https://github.com/olugovoy/indem), and several other countries. 
+As the starting point, the project will adopt a model initially developed under *Feasibility study of China’s electric power sector transition to zero emissions by 2050* (by Oleg Lugovoy, Shuo Gao, Ji Gao, Kejun Jiang, under review), and currently being applied to [USA](https://www.usensys.org/), [India](https://github.com/olugovoy/indem), and several other countries. 
 
 ### The pilot project timeline    
 The *pilot* project is a short-term project, starting now in May 2020 and is expected to conclude at the end of Summer 2020, delivering the generic kick-start model, open models for the participating countries, and the set of unified scenarios. The project will include up to 7 countries/regions.  
 
 ### <span style="color:red">**Call for collaboration**</span>  
-The project can provide support in developing the model for up to two 2 additional teams. Researchers/modelers who are interested in developing/applying the model for a particular country or region, please contact: opendecarbonization@gmail.com
+The project can provide support in developing the model for up to two 2 additional teams. Researchers/modelers who are interested in developing/applying the model for a particular country or region, please contact: opendecarbonization@gmail.com, olugovoy@edf.org. 
