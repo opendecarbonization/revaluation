@@ -7,7 +7,7 @@ The project aims to develop a generic capacity expansion model which can be *(re
 * Scripts to formulate multi-region capacity expansion model with 1-hour resolution (8760 sub-annual time-slices in total);  
 * Scripts to process MERRA-2 data and acquire (up to 40-years) time series of wind- and solar- energy;  
 * Scripts to run the model and scenarios;  
-* Scripts for processing the modeling results, generic reporting, and sharing under the [open decarbonization](www.opendecarbonization.org) project. The modeling language of the project is *R* with *energyRt*. The model can be solved with one of the popular mathematical programming languages (see [www.energyRt.org](www.energyRt.org) for details).
+* Scripts for processing the modeling results, generic reporting, and sharing under the [open decarbonization](https://www.opendecarbonization.org/) project. The modeling language of the project is *R* with *energyRt*. The model can be solved with one of the popular mathematical programming languages (see [https://energyrt.org/](www.energyRt.org) for details).
 
 ### Targeted model structure  
 * multiple regions (minimum two, recommended 30+, will be used as nodes for UHVDC grid);  
