@@ -1,6 +1,9 @@
 # **r**<span style="color:#C0C0C0">**e**</span>newable <span style="color:#C0C0C0">**e**</span>nergy <span style="color:#C0C0C0">**e**</span>**valuation**
 #### Kickstarting model with a set of unified scenarios for the [open decarbonization](https://www.opendecarbonization.org/) initiative.  
 
+*Sep 25, 2020 update:*  
+**Interim reports for several countries/models:** https://www.dropbox.com/t/Gi51aMTSSPHACtqf
+
 ### About  
 The project aims to develop a generic capacity expansion model which can be *(relatively)* easily applied to any territory (country/region) to evaluate intermittent renewable energy potential and electric power system design with a high to 100% share of renewables. The initial "kickstarting" model will not consider any existing generating capacity, evaluating the potential of renewables, based on 40-years of hourly meteorological data from NASA's [MERRA-2 project](https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/). As a result, the project will assemble, adopt, or develop:   
 
